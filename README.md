@@ -1,6 +1,6 @@
-# fivewhys TinyMCE Plugin
+# Five Ws TinyMCE Plugin
 
-Welcome stranger! This is a repo containing the fivewhys TinyMCE plugin.
+Welcome stranger! This is a repo containing the Five Ws TinyMCE plugin.
 
 ## The development server
 
