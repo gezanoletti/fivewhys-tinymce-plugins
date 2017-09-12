@@ -1,6 +1,6 @@
 # Five Ws TinyMCE Plugin
 
-Welcome stranger! This is a repo containing the Five Ws TinyMCE plugin.
+Welcome stranger! This is a repo containing the [Five Ws](https://en.wikipedia.org/wiki/Five_Ws) TinyMCE plugin.
 
 ## The development server
 
