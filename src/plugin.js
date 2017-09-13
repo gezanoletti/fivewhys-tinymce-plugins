@@ -1,3 +1,5 @@
+tinymce.PluginManager.requireLangPack('fivewhys', 'es');
+
 import _ from 'lodash';
 
 const plugin = (editor) => {
